@@ -1,5 +1,5 @@
 test_c_kzg_4844
-test_c_kzg_4844_*
+test_c_kzg_9874_*
 coverage.html
 analysis-report/
 *.profraw
